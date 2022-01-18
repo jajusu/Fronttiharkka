@@ -1,0 +1,3 @@
+Miten käytetään?
+-avaa ensin palvelin kansiossa "harkkaBack" komennolla "node harkkaServer.js"
+-avaa sitten toinen cmd ja siinä projektin juuressa (sama missä app.js) "npm start"

@@ -1,0 +1,9 @@
+
+.lisaaForm{color: cadetblue;}
+.syota{size: '909';}
+label{width:100px;
+    display: inline-block;}
+.nappi{width:70px; padding:2px}
+.lisaaPoista{color: chocolate;border-style: double;width: 200px;}
+.labelMuokkaa{font-weight:bold;width: 50px;}
+.virhe{width: 200px;}
